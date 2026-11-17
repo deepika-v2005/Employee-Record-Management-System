@@ -1,0 +1,19 @@
+# Archive files
+*.zip
+viewedit.zip
+
+# Environment & Logs
+.env
+.env.local
+*.log
+
+# Editor & IDE configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
